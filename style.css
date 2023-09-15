@@ -1,0 +1,30 @@
+/* @media only screen and (max-width:700px)
+    {
+
+        body{
+           background-color: brown;}
+           h3{
+            visibility: hidden;
+           }
+    
+}
+
+.black{
+    width: 400px;
+    height: 400px;
+    background-color: aqua;
+    -webkit-clip-path: polygon(0% 0%, 100% 0%, 100% 75%, 75% 75%, 75% 100%, 50% 75%, 0% 75%);
+clip-path: polygon(0% 0%, 100% 0%, 100% 75%, 75% 75%, 75% 100%, 50% 75%, 0% 75%);
+}
+
+
+img{
+    -webkit-clip-path: polygon(20% 0%, 80% 0%, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0% 80%, 0% 20%);
+clip-path: polygon(20% 0%, 80% 0%, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0% 80%, 0% 20%);
+} */
+
+/* .container{
+    background-color: blueviolet;
+} */
+.container-fluid{background-color: blue;
+}
